@@ -7,7 +7,7 @@ extends CharacterBody2D
 var dashReady = 1
 
 # speed variables
-@export var speed = 1200
+@export var speed = 1201
 var normalSpeed
 
 
